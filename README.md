@@ -88,3 +88,13 @@ Enable dynamic speech interactions through the Speech class:
 ```
 java -cp bin Speech
 ```
+
+# Future Improvements
+
+- Natural Language Processing: Enhance interaction using NLP libraries like Stanford NLP or spaCy.
+
+- Voice Synthesis: Integrate text-to-speech (TTS) APIs like Google TTS.
+
+- Web Interface: Develop a front-end for easier interaction with Mirai.
+
+- Memory System: Implement a persistent memory to remember user preferences and past conversations.
